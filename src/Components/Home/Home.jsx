@@ -28,7 +28,7 @@ const Home = () => {
                 <img src={ME} alt="Divyendu" />
             </div>
 
-            <a href="/contact" className='scroll_down'>Scroll Down</a>
+            <a href="#contact" className='scroll_down'>Scroll Down</a>
         </div>
     </header>
   )
