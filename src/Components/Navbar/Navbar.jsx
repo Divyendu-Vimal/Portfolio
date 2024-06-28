@@ -25,9 +25,9 @@ const Navbar = () => {
         <BiUser />
       </a>
       <a
-        href="#profiles"
-        onClick={() => setActive("#profiles")}
-        className={active === "#profiles" ? "active" : ""}
+        href="#experience"
+        onClick={() => setActive("#experience")}
+        className={active === "#experience" ? "active" : ""}
       >
         <FaLaptopCode />
       </a>
